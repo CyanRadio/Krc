@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## 欢迎来到凯润无线电频道官网(KRC)
+ 
+请打开 http://cyanradio.github.io/Krc/KrcPlaying.exe 下载本频道专用活动及公告读取器（PC）
+或 浏览下方其他版本：
+{                     }
+{ 目前并没有其他版本。   }
+{                     }
+ 
+如果使用其他设备（非电脑）请按照下面提供的目录浏览
 
-You can use the [editor on GitHub](https://github.com/CyanRadio/Krc/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CyanRadio/Krc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1.注册（网上注册不能成为频道管理员，最多成为网站管理）
+    发电子邮件至cyancraft@hotmail.com
+    内容：
+        注册凯润无线电频道：
+        账户名称：       （最多14个英文字母）
+        账户密码：       （随意）
+        名称：          （最多16个英文字母或数字）
+        是否凯润花园住户：       （是或否）
+     发送完之后会回复下内容：
+        是否成功注册
+        账户目前等级
+        账户目前数字ID(UID)
+        8个KRC账号验证卡（一次性）
+ 2.赞助
